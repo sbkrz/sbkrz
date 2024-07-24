@@ -3,6 +3,7 @@ Welcome to my GitHub profile! :) I'm Sabrina, passionate abot Data Analysis and 
 
 ✮⋆˙ I'm currently workin with: 
 - Python (libraries such as Pandas, Numpy, Scipy, Seaborn, Matplotlib, Scikit-learn, textblob, etc.)
+- SQL
 - PowerBI
 - R
 - Excel
