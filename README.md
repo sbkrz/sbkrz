@@ -22,7 +22,7 @@ Welcome to my GitHub profile! :) I'm Sabrina, passionate abot Data Analysis and 
 ╰┈➤ My contact info:
 - Linkedin: [https://www.linkedin.com/in/sbkrz/](https://www.linkedin.com/in/sbkrz/)
 - Email: sab.krenz6@hotmail.com
-- Instagram: [https://www.instagram.com/whoissa_b)](https://www.instagram.com/whoissa_b)
+- Instagram: [https://www.instagram.com/whoissa_b](https://www.instagram.com/whoissa_b)
 
 ୭ ˚. Thanks for reading •ᴗ•
 
