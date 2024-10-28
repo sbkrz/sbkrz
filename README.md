@@ -1,5 +1,5 @@
 ˗ˏˋ ★ Hi there ˎˊ˗ 
-Welcome to my GitHub profile! :) I'm Sabrina, passionate abot Data Analysis and Science. Also a big nerd when it comes to Psychology and Physics. 
+Welcome to my GitHub profile! :) I'm Sabrina, passionate abot Data Analysis, Science and Finances. Also a big nerd when it comes to Psychology and Physics. 
 
 ✮⋆˙ I'm currently workin with: 
 - Python (libraries such as Pandas, Numpy, Scipy, Seaborn, Matplotlib, Scikit-learn, textblob, etc.)
