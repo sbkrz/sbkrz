@@ -1,5 +1,5 @@
 ˗ˏˋ ★ Hi there ˎˊ˗ 
-Welcome to my GitHub profile! :) I'm Sabrina, passionate abot Data Analysis, Science and Finances. Also a big nerd when it comes to Psychology and Physics. 
+Welcome to my GitHub profile! :) I'm Sabrina, a student with certificates on Google Data Analytics & Business Intelligence. HarvardX's Machine learning and AI, R basics & Computer Science. Soy Henry's Data Science. I'm passionate abot Data Analysis, Science and Finances. Also a big nerd when it comes to Psychology and Physics. 
 
 ✮⋆˙ I'm currently workin with: 
 - Python (libraries such as Pandas, Numpy, Scipy, Seaborn, Matplotlib, Scikit-learn, textblob, etc.)
@@ -7,18 +7,21 @@ Welcome to my GitHub profile! :) I'm Sabrina, passionate abot Data Analysis, Sci
 - PowerBI
 - R
 - Excel
+- Google Spreadsheets
+- Tableau
   
 ⭑.ᐟ What I like to do:
-- Learning, reading. I like challenges, such as working with big datasets.
+- Learning, reading and watching movies. I like challenges, such as working with big datasets and machine learning.
 
 ✧₊⁺ Relevant achievement:
 - My second individual project, I worked with Python and PowerBI.
 [DataAnalyticsPI](https://github.com/sbkrz/PI_02_DA)
 
 ༘⋆ Interested in:
-- Machine Learning
-- IA
 - Data Analysis
+- Business Intelligence
+-  Machine Learning
+- IA
 
 ╰┈➤ My contact info:
 - Linkedin: [https://www.linkedin.com/in/sbkrz/](https://www.linkedin.com/in/sbkrz/)
